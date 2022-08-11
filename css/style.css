@@ -1,0 +1,33 @@
+* {
+  margin: 1rem;
+  padding: 0;
+}
+
+body {
+  background-color: darkgreen;
+  width: 100%;
+}
+
+main {
+  display: inline;
+  width: 100%;
+}
+
+img {
+  width: 100%;
+  margin: auto;
+  padding: 1rem;
+}
+
+h1, h2, h3 {
+  color: white;
+  font-size: xx-large;
+  text-align: center; 
+}
+
+P {
+  color: white;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+}
