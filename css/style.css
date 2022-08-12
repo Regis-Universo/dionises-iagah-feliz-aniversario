@@ -5,17 +5,18 @@
 
 body {
   background-color: darkgreen;
-  width: 100%;
+  width: 90%;
 }
 
 main {
-  display: inline;
+ /* display: inline; */
+ display: block;
   width: 100%;
 }
 
 img {
   width: 100%;
-  margin: auto;
+  margin: 0 auto;
   padding: 1rem;
 }
 
